@@ -13,7 +13,7 @@ I have made some modifications of my own. I scaled her recipe to half, and it wo
 
 - 4 egg  (200g)
 - 1 additional yolk (17g) 
-- 21 g of either: Wondra (US)/Easy blend flour (Canada) (Modernist Cousine trick, but you can use regular flour)
+- 21 g of either: Wondra (US) or Easy blend flour (Canada) (a Modernist Cuisine trick, but you can use regular flour)
 - 80 g sugar
 - 1.5 g salt
 - 105 g semisweet chocolate
