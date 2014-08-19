@@ -3,37 +3,39 @@
 
 Is Adria is to cooking what Stallman is to open source? 
 
-He invented this method and people keep perferting it.
-This variation is from 
+He invented this method and people keep perfecting it.
+This variation is from "Playing with Fire and Water":
 
 http://www.playingwithfireandwater.com/foodplay/2008/07/microwave-chocolate-cake.html
 
-I scaled her recipe to half, and it works for me.
+I have made some modifications of my own. I scaled her recipe to half, and it works for me.
 
 
 - 4 egg  (200g)
 - 1 additional yolk (17g) 
-- 21 g of Wondra/Easy blend four (Modernist Cousine trick) or use regular flour
+- 21 g of either: Wondra (US)/Easy blend flour (Canada) (Modernist Cousine trick, but you can use regular flour)
 - 80 g sugar
 - 1.5 g salt
 - 105 g semisweet chocolate
 - 2 cartridges of NO2
-- 1 syphon (0.5L)
+- 1 siphon (0.5L)
 - paper cups
 
 Instructions
 ------------
 
-- Wisk eggs, sugar and salt (for best results, use electric blender/whisker). You want them fluffy and incoporated
-- Melt chocolate (I used microwave, just do it slowly so you don't burn it)
+- Whisk eggs, sugar and salt (for best results, use electric blender/whisker). You want them fluffy and incorporated
+- Melt chocolate (I use the microwave, just do it slowly so you don't burn it)
 - Mix into the mixture the flour
-- Add the chocolate to the mixture
-- Load the syphon (important: sieve the mixture so it does not clog the syphon)
-- Shake vigourosly
-- Load the syphon again, shake again
+- Add the chocolate to the mixture and incorporate
+- Pour into the siphon (important: sieve the mixture so it does not clog the siphon)
+- Charge the siphon with one cartridge 
+- Shake vigorously
+- Charge the siphon again, shake again
 - put in in the fridge to cool for a couple of hours.
 
-In the original recipe, she does not put in the fridge. In my experience, the cooling helps.
+In the original recipe, she does not put it in the fridge. In my experience, the cooling helps.
+I got great results one day later.
 
 Now the tricky thing: calibrating the microwave.
 
@@ -45,7 +47,7 @@ So you might have to experiment to get the best results.
 - Optional: spray oil in the inside (helps the release)
 - Load the cup to 1/2 way with mixture
 - Microwave
-- Remove immmediately and keep upside down for few seconds (I use 30)
+- Remove immediately and keep upside down for few seconds (I use 30)
 - Remove from cup, serve and eat.
 
 You have to eat it quickly. Otherwise it dries very fast.
