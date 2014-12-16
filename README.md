@@ -25,8 +25,8 @@ Instructions
 ------------
 
 - Make sure that eggs are at room temperature.
-- Whisk eggs, sugar and salt (for best results, use electric blender/whisker). You want them fluffy and incorporated
 - Melt chocolate (I use the microwave, just do it slowly so you don't burn it)
+- Whisk eggs, sugar and salt (for best results, use electric blender/whisker). You want them fluffy and incorporated
 - Mix into the mixture the flour
 - Add the chocolate to the mixture and incorporate
 - Pour into the siphon (important: sieve the mixture so it does not clog the siphon)
