@@ -24,6 +24,7 @@ I have made some modifications of my own. I scaled her recipe to half, and it wo
 Instructions
 ------------
 
+- Make sure that eggs are at room temperature.
 - Whisk eggs, sugar and salt (for best results, use electric blender/whisker). You want them fluffy and incorporated
 - Melt chocolate (I use the microwave, just do it slowly so you don't burn it)
 - Mix into the mixture the flour
